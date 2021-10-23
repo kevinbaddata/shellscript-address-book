@@ -2,7 +2,6 @@
 A simple address-book that has unique features like 
 
 ```sh
-Hello Please choose a menu below 
 
 (1) - Search / List
 (2) - Add
