@@ -2,12 +2,12 @@
 A simple address-book that has unique features like 
 
 ```sh
-echo -e "-- Hello Please choose a menu below --\n\n"
+Hello Please choose a menu below 
 
-echo "(1) - Search / List"
-echo "(2) - Add"
-echo "(3) - Remove"
-echo "(4) - Edit"
-echo "(q) - Quit"
+(1) - Search / List"
+(2) - Add
+(3) - Remove
+(4) - Edit
+(q) - Quit
 ```
 
